@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Users\Kyler Geesink\Desktop\cs1c\agile2\Intermediate\Build\Win64\UE4Editor\Inc\Building_Escape"
-/I "C:\Users\Kyler Geesink\Desktop\cs1c\agile2\Source"
-/I "C:\Users\Kyler Geesink\Desktop\cs1c\agile2\Source\Building_Escape"
+/I C:\Users\Nicholas\Documents\GitHub\agile-2-part-2-electric-boogaloo\Intermediate\Build\Win64\UE4Editor\Inc\Building_Escape
+/I C:\Users\Nicholas\Documents\GitHub\agile-2-part-2-electric-boogaloo\Source
+/I C:\Users\Nicholas\Documents\GitHub\agile-2-part-2-electric-boogaloo\Source\Building_Escape
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -430,16 +430,17 @@
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\Kyler Geesink\Desktop\cs1c\agile2\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Kyler Geesink\Desktop\cs1c\agile2\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Kyler Geesink\Desktop\cs1c\agile2\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Kyler Geesink\Desktop\cs1c\agile2\Source\Building_Escape\Grabber.cpp"
-/FI"C:\Users\Kyler Geesink\Desktop\cs1c\agile2\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h"
-/Fo"C:\Users\Kyler Geesink\Desktop\cs1c\agile2\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Grabber.cpp.obj"
+/FI"C:\Users\Nicholas\Documents\GitHub\agile-2-part-2-electric-boogaloo\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Nicholas\Documents\GitHub\agile-2-part-2-electric-boogaloo\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Nicholas\Documents\GitHub\agile-2-part-2-electric-boogaloo\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Nicholas\Documents\GitHub\agile-2-part-2-electric-boogaloo\Source\Building_Escape\Grabber.cpp"
+/FI"C:\Users\Nicholas\Documents\GitHub\agile-2-part-2-electric-boogaloo\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h"
+/Fo"C:\Users\Nicholas\Documents\GitHub\agile-2-part-2-electric-boogaloo\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Grabber.cpp.obj"
 /TP
 /GR-
 /W4

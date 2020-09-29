@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BUILDING_ESCAPE_Grabber_generated_h
 
-#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_RPC_WRAPPERS
-#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_RPC_WRAPPERS_NO_PURE_DECLS
-#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_INCLASS_NO_PURE_DECLS \
+#define agile2_Source_Building_Escape_Grabber_h_14_RPC_WRAPPERS
+#define agile2_Source_Building_Escape_Grabber_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define agile2_Source_Building_Escape_Grabber_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGrabber(); \
 	friend struct Z_Construct_UClass_UGrabber_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(UGrabber)
 
 
-#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_INCLASS \
+#define agile2_Source_Building_Escape_Grabber_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesUGrabber(); \
 	friend struct Z_Construct_UClass_UGrabber_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(UGrabber)
 
 
-#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_STANDARD_CONSTRUCTORS \
+#define agile2_Source_Building_Escape_Grabber_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGrabber(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGrabber) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_ENHANCED_CONSTRUCTORS \
+#define agile2_Source_Building_Escape_Grabber_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGrabber(UGrabber&&); \
@@ -57,26 +57,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrabber); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UGrabber)
 
 
-#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_PRIVATE_PROPERTY_OFFSET
-#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_11_PROLOG
-#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_GENERATED_BODY_LEGACY \
+#define agile2_Source_Building_Escape_Grabber_h_14_PRIVATE_PROPERTY_OFFSET
+#define agile2_Source_Building_Escape_Grabber_h_11_PROLOG
+#define agile2_Source_Building_Escape_Grabber_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_PRIVATE_PROPERTY_OFFSET \
-	agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_RPC_WRAPPERS \
-	agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_INCLASS \
-	agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_STANDARD_CONSTRUCTORS \
+	agile2_Source_Building_Escape_Grabber_h_14_PRIVATE_PROPERTY_OFFSET \
+	agile2_Source_Building_Escape_Grabber_h_14_RPC_WRAPPERS \
+	agile2_Source_Building_Escape_Grabber_h_14_INCLASS \
+	agile2_Source_Building_Escape_Grabber_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_GENERATED_BODY \
+#define agile2_Source_Building_Escape_Grabber_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_PRIVATE_PROPERTY_OFFSET \
-	agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_INCLASS_NO_PURE_DECLS \
-	agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h_14_ENHANCED_CONSTRUCTORS \
+	agile2_Source_Building_Escape_Grabber_h_14_PRIVATE_PROPERTY_OFFSET \
+	agile2_Source_Building_Escape_Grabber_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	agile2_Source_Building_Escape_Grabber_h_14_INCLASS_NO_PURE_DECLS \
+	agile2_Source_Building_Escape_Grabber_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -84,7 +84,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> BUILDING_ESCAPE_API UClass* StaticClass<class UGrabber>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID agile_2_part_2_electric_boogaloo_Source_Building_Escape_Grabber_h
+#define CURRENT_FILE_ID agile2_Source_Building_Escape_Grabber_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
