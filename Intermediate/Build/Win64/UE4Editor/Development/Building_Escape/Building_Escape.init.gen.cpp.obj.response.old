@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I D:\OneDrive\Documents\GitHub\agile2\Building_Escape\Intermediate\Build\Win64\UE4Editor\Inc\Building_Escape
-/I D:\OneDrive\Documents\GitHub\agile2\Building_Escape\Source
-/I D:\OneDrive\Documents\GitHub\agile2\Building_Escape\Source\Building_Escape
+/I "D:\OneDrive\Documents\Unreal Projects\building escape\Intermediate\Build\Win64\UE4Editor\Inc\Building_Escape"
+/I "D:\OneDrive\Documents\Unreal Projects\building escape\Source"
+/I "D:\OneDrive\Documents\Unreal Projects\building escape\Source\Building_Escape"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -434,12 +434,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\OneDrive\Documents\GitHub\agile2\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\OneDrive\Documents\GitHub\agile2\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\OneDrive\Documents\GitHub\agile2\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\OneDrive\Documents\GitHub\agile2\Building_Escape\Intermediate\Build\Win64\UE4Editor\Inc\Building_Escape\Building_Escape.init.gen.cpp"
-/FI"D:\OneDrive\Documents\GitHub\agile2\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h"
-/Fo"D:\OneDrive\Documents\GitHub\agile2\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_Escape.init.gen.cpp.obj"
+/FI"D:\OneDrive\Documents\Unreal Projects\building escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\OneDrive\Documents\Unreal Projects\building escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\OneDrive\Documents\Unreal Projects\building escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\OneDrive\Documents\Unreal Projects\building escape\Intermediate\Build\Win64\UE4Editor\Inc\Building_Escape\Building_Escape.init.gen.cpp"
+/FI"D:\OneDrive\Documents\Unreal Projects\building escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h"
+/Fo"D:\OneDrive\Documents\Unreal Projects\building escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Building_Escape.init.gen.cpp.obj"
 /TP
 /GR-
 /W4
