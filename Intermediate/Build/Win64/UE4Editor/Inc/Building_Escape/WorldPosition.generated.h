@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BUILDING_ESCAPE_WorldPosition_generated_h
 
-#define agile2_Source_Building_Escape_WorldPosition_h_13_RPC_WRAPPERS
-#define agile2_Source_Building_Escape_WorldPosition_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define agile2_Source_Building_Escape_WorldPosition_h_13_INCLASS_NO_PURE_DECLS \
+#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_RPC_WRAPPERS
+#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUWorldPosition(); \
 	friend struct Z_Construct_UClass_UWorldPosition_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(UWorldPosition)
 
 
-#define agile2_Source_Building_Escape_WorldPosition_h_13_INCLASS \
+#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesUWorldPosition(); \
 	friend struct Z_Construct_UClass_UWorldPosition_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(UWorldPosition)
 
 
-#define agile2_Source_Building_Escape_WorldPosition_h_13_STANDARD_CONSTRUCTORS \
+#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UWorldPosition(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UWorldPosition) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define agile2_Source_Building_Escape_WorldPosition_h_13_ENHANCED_CONSTRUCTORS \
+#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UWorldPosition(UWorldPosition&&); \
@@ -57,26 +57,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UWorldPosition); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UWorldPosition)
 
 
-#define agile2_Source_Building_Escape_WorldPosition_h_13_PRIVATE_PROPERTY_OFFSET
-#define agile2_Source_Building_Escape_WorldPosition_h_10_PROLOG
-#define agile2_Source_Building_Escape_WorldPosition_h_13_GENERATED_BODY_LEGACY \
+#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_PRIVATE_PROPERTY_OFFSET
+#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_10_PROLOG
+#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	agile2_Source_Building_Escape_WorldPosition_h_13_PRIVATE_PROPERTY_OFFSET \
-	agile2_Source_Building_Escape_WorldPosition_h_13_RPC_WRAPPERS \
-	agile2_Source_Building_Escape_WorldPosition_h_13_INCLASS \
-	agile2_Source_Building_Escape_WorldPosition_h_13_STANDARD_CONSTRUCTORS \
+	agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_PRIVATE_PROPERTY_OFFSET \
+	agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_RPC_WRAPPERS \
+	agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_INCLASS \
+	agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define agile2_Source_Building_Escape_WorldPosition_h_13_GENERATED_BODY \
+#define agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	agile2_Source_Building_Escape_WorldPosition_h_13_PRIVATE_PROPERTY_OFFSET \
-	agile2_Source_Building_Escape_WorldPosition_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	agile2_Source_Building_Escape_WorldPosition_h_13_INCLASS_NO_PURE_DECLS \
-	agile2_Source_Building_Escape_WorldPosition_h_13_ENHANCED_CONSTRUCTORS \
+	agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_PRIVATE_PROPERTY_OFFSET \
+	agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_INCLASS_NO_PURE_DECLS \
+	agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -84,7 +84,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> BUILDING_ESCAPE_API UClass* StaticClass<class UWorldPosition>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID agile2_Source_Building_Escape_WorldPosition_h
+#define CURRENT_FILE_ID agile_2_part_2_electric_boogaloo_Source_Building_Escape_WorldPosition_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
