@@ -3285,3 +3285,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.29-22.36.50:021][ 23]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
 [2020.09.29-22.36.50:072][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
 [2020.09.29-22.36.50:089][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.09.29-22.41.48:139][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.29-22.43.46:172][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.09.29-22.43.46:172][509]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BuildingEscape' took 0.036
+[2020.09.29-22.52.37:239][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.29-22.52.37:707][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildingEscape" FILE="../../../../../../Users/Kyler Geesink/Desktop/cs1c/agile2/Content/BuildingEscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.29-22.52.37:738][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.09.29-22.52.38:791][519]LogSavePackage: Moving '../../../../../../Users/Kyler Geesink/Desktop/cs1c/agile2/Saved/BuildingEscape7BE41FE9406026DC658C5C95862E3E23.tmp' to '../../../../../../Users/Kyler Geesink/Desktop/cs1c/agile2/Content/BuildingEscape.umap'
+[2020.09.29-22.52.38:825][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildingEscape_BuiltData" FILE="../../../../../../Users/Kyler Geesink/Desktop/cs1c/agile2/Content/BuildingEscape_BuiltData.uasset" SILENT=true
+[2020.09.29-22.52.44:775][519]LogSavePackage: Moving '../../../../../../Users/Kyler Geesink/Desktop/cs1c/agile2/Saved/BuildingEscape_BuiltData30595B5C4EB93CD5612C1EB45DDD3E0C.tmp' to '../../../../../../Users/Kyler Geesink/Desktop/cs1c/agile2/Content/BuildingEscape_BuiltData.uasset'
